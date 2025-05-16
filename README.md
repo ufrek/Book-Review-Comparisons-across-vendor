@@ -21,7 +21,7 @@ The final dataset after finding reviews of the same ISBN across both sites consi
 
   For each vendor, the top 10 keywords were extracted from the review set for a single title.
 
-  ## EvaluationL
+  ## Evaluation:
 
   Rouge 1 precision and ngram match averages were taken for each title.
 
